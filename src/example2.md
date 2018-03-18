@@ -1,4 +1,6 @@
 # Chapter 2
-# Foo section
-# Bar section {#sec:barchapter}
-## Bar subsection
+## Section
+### Sub Section
+# Bar Chapter {#sec:barchapter}
+## Bar Section
+### Bar Sub Section

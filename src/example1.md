@@ -12,17 +12,17 @@ You can reference any label, even those that are in different files [@sec:barcha
 #### Math Block
 $$
   \begin{pmatrix}
-    pessoa_{1} \\
-    pessoa_{2} \\
+    person_{1} \\
+    person_{2} \\
     \vdots \\
-    pessoa_{n}
+    person_{n}
   \end{pmatrix}
   =
   \begin{pmatrix}
     1997 & 1 \\
     1943 & 0 \\
     \vdots  & \vdots \\
-    ano_{n} & sexo_{n}
+    year_{n} & genre_{n}
   \end{pmatrix}
 $$ {#eq:mathblock}
 
@@ -34,7 +34,7 @@ $$
   exp(-|x_{i}-x_{k}|^2/2 \sigma _{i}^2)},
 $$ {#eq:simgauss}
 
-You can reference the math block [@eq:mathblock] or [@eq:simgauss], or even both [@eq:mathblock, @eq:simgauss]
+You can reference the math block [@eq:mathblock] or [@eq:simgauss].
 
 #### Table
 
@@ -77,13 +77,14 @@ You can reference lists [@lst:alg]
 #### Figures
 
 To include figure save the image file in the "images/" directory and type
-![captions](images/example.png){#fig:figlabel}
 
-You can reference the figure [@fig:figlabel]
+![captions](images/example.png){#fig:figure}
+
+You can reference the figure [@fig:figure]
 
 #### Citation
 
-> _"bla bla bla bla bla bla bla bla"
+> _"bla bla bla bla bla bla bla bla"_
 
 #### Link
 
