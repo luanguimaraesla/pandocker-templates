@@ -1,0 +1,12 @@
+version: '3.1'
+
+services:
+  pandocker:
+    image: luanguimaraesla/pandocker:0.0.1
+    volumes:
+      - .:/code
+    environment:
+      OUTPUT_FILE: 'example.pdf'   # the output file name, defalt: doc.pdf
+#      SOURCE_DIR: 'example'   # the markdown source directory, default: src
+#      TEMPLATE_PATH: 'templates/example.latex'   # the path of your pandoc template, default: none
+#      WITH_TABLE_OF_CONTENTS: false   # show the table of contents, default: true
