@@ -1,0 +1,53 @@
+---
+#  Examples: variables are described in the following link
+#  http://docs.citationstyles.org/en/1.0.1/specification.html#appendix-iv-variables
+#
+#  IMPORTANT: Do not remove the "---" in the first line and the "..." at the final
+#  your bib description should be between these delimiters
+#
+#  Check the pandoc-citeproc manual for more information
+#  https://github.com/jgm/pandoc-citeproc/blob/master/man/pandoc-citeproc.1.md
+#
+#references:
+#  - type: article-journal
+#    id: icd17
+#    author:
+#    - family: Parra Filho
+#      given: [Henrique, C., P.]
+#    - family: Poppi
+#      given: [Ricardo, A.]
+#    issued:
+#      date-parts:
+#      - - 2017
+#        - 5
+#        - 12
+#    title: 'Governança digital como vetor para uma nova geração de tecnologias
+#      de participação social no Brasil'
+#    container-title: 'Liinc em Revista'
+#    publisher: "Ibict"
+#    volume: 13
+#    issue: 1
+#    page: 223-236
+#    DOI: 10.18617/liinc.v13i1.3895
+#    URL: http://revista.ibict.br/liinc/article/view/3895/3221
+#    language: pt-BR
+#
+#  - type: book
+#    id: ptan05
+#    author:
+#    - family: Tan
+#      given: Pang-Ning
+#    - family: Steinbach
+#      given: Michael
+#    - family: Kumar
+#      given: Vipin
+#    title: 'Introduction to Data Mining'
+#    chapter-number: 8
+#    container-title: 'Cluster Analysis: Basic Concepts and Algorithms'
+#    publisher: 'Pearson'
+#    issued:
+#      date-parts:
+#      - - 2005
+#    edition: 1
+#    language: en-US
+...
