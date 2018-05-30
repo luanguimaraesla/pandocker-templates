@@ -1,0 +1,54 @@
+---
+references:
+#  - type: article-journal
+#    id: icd17
+#    author:
+#    - family: Parra Filho
+#      given: [Henrique, C., P.]
+#    - family: Poppi
+#      given: [Ricardo, A.]
+#    issued:
+#      date-parts:
+#      - - 2017
+#        - 5
+#        - 12
+#    title: 'Governança digital como vetor para uma nova geração de tecnologias
+#      de participação social no Brasil'
+#    container-title: 'Liinc em Revista'
+#    publisher: "Ibict"
+#    volume: 13
+#    issue: 1
+#    page: 223-236
+#    DOI: 10.18617/liinc.v13i1.3895
+#    URL: http://revista.ibict.br/liinc/article/view/3895/3221
+#    language: pt-BR
+#
+#
+#  - type: article-journal
+#    id: roma15
+#    author:
+#    - family: Romão
+#      given: Wagner de Melo
+#    issued:
+#      date-parts:
+#      - - 2015
+#        - 07
+#        - 31
+#    title: 'Reflexões Sobre as Dificuldades da Implementação da
+#      Participação Institucional no Brasil'
+#    container-title: 'Ideias - Políticas Públicas no Brasil: uma agenda de pesquisa'
+#    volume: 6
+#    issue: 2
+#    URL: 'http://www.ipea.gov.br/participacao/images/pdfs/2160-6031-1-pb.pdf'
+#    publisher: 'Unicamp'
+#    publisher-place: 'Campinas'
+#    language: pt-BR
+
+# ATENÇÃO: SUAS REFERÊNCIAS DEVEM ESTAR ABAIXO
+# A INDENTAÇÃO É MUITO IMPORTANTE NESTE ARQUIVO, SEGUIR O EXEMPLO ACIMA
+# VEJA OUTRO EXEMPLO DE UM TRABALHO FEITO COM ESTE TEMPLATE EM:
+# https://github.com/luanguimaraesla/tcc
+
+
+# ATENÇÃO: SUAS REFERÊNCIAS DEVEM ESTAR ACIMA DOS "..."
+...
