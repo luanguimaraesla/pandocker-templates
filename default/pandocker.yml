@@ -1,0 +1,14 @@
+# pandocker.yml
+sections:
+  - config.md
+  - document.md
+
+pandoc:
+#  custom_flags: "-s"
+  source_path:   "src/"
+  template_file: "templates/default.latex"
+  output_file:   "doc.pdf"
+#  toc:           true
+#  filters:
+#    - pandoc-crossref
+#    - pandoc-citeproc
