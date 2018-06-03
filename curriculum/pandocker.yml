@@ -1,0 +1,14 @@
+# pandocker.yml
+sections:
+  - personal.md
+  - education.md
+  - experience.md
+  - university.md
+  - project.md
+  - skill.md
+
+pandoc:
+  custom_flags: "-s"
+  source_path:   "src/"
+  template_file: "templates/curriculum.latex"
+  output_file:   "doc.pdf"
