@@ -14,6 +14,7 @@ Here are all the available preconfigured templates.
 | ---- | ----------- |
 | default | Standard pandocker template. It meets the most basic needs, however it can be completely customized for any need. |
 | unb-tcc | Template for the final thesis (_Trabalho de Conclusão de Curso_) at the University of Brasília |
+| unb-internship | Template for the final report of compulsory internship at the University of Brasília |
 | curriculum | Template for creating a minimalist curriculum |
 
 ## Usage
