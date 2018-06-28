@@ -1,0 +1,15 @@
+# pandocker.yml
+sections:
+  - config.md
+  - introducao.md
+  - dados.md
+  - atividades.md
+  - resultado.md
+  - conclusao.md
+
+pandoc:
+  custom_flags: "-s"
+  source_path:   "src/"
+  template_file: "templates/internship.latex"
+  output_file:   "doc.pdf"
+  toc:           true
